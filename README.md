@@ -1,8 +1,10 @@
-# Quantum Cluster Parity Check Builder
+# Graph Code Editor
 
 A professional, high-fidelity standalone application for building and analyzing quantum cluster graphs, computing parity check matrices, and extracting logical operators and code distances.
 
-![UI Preview](static/preview.png) *(Optional: Add a screenshot here later)*
+<p align="center">
+  <img src="static/preview.png" alt="Graph Code Editor Preview" width="100%">
+</p>
 
 ## Features
 - **Interactive Canvas**: Draw cluster and message nodes with an intuitive, modern interface.
