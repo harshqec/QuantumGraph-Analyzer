@@ -16,14 +16,24 @@ A professional, high-fidelity standalone application for building and analyzing 
 ### 1. Prerequisites
 Ensure you have Python 3.8+ installed.
 
-### 2. Install Dependencies
+### 2. Setup and Run (Recommended)
+You can use the provided setup script which handles everything:
 ```bash
-pip install -r requirements.txt
+bash setup.sh
 ```
 
-### 3. Run the Application
+### 3. Manual Installation (Linux/macOS)
+If you prefer manual setup:
 ```bash
-python app.py
+# Create and activate virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+python3 app.py
 ```
 The application will automatically start a local server and open your default web browser to `http://127.0.0.1:5000`.
 
