@@ -47,3 +47,6 @@ The application will automatically start a local server and open your default we
 
 ## Academic Context
 This tool is designed for research in Quantum Error Correction (QEC), specifically focusing on Cluster-State based codes and parity check matrix construction from graphical representations.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
