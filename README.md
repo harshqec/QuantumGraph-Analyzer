@@ -2,9 +2,9 @@
 
 A professional, high-fidelity standalone application for building and analyzing quantum cluster graphs, computing parity check matrices, and extracting logical operators and code distances.
 
-<p align="center">
+<!-- <p align="center">
   <img src="static/preview.png" alt="Graph Code Editor Preview" width="100%">
-</p>
+</p> -->
 
 ## Features
 - **Interactive Canvas**: Draw cluster and message nodes with an intuitive, modern interface.
